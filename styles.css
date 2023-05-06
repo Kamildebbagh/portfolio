@@ -734,21 +734,21 @@
 
 @font-face {
   font-family: 'Satoshi Bold';
-  src: url("https://mattdowney.github.io/primer/fonts/Satoshi-Bold.woff2") format("woff2"), url("https://mattdowney.github.io/primer/fonts/Satoshi-Bold.woff") format("woff");
+  src: url("https://github.com/Kamildebbagh/portfolio/raw/e93459a817a67f032566cbe1817a2f750ca7e86f/Fonts/Satoshi-Bold.woff2") format("woff2"), url("https://github.com/Kamildebbagh/portfolio/raw/e93459a817a67f032566cbe1817a2f750ca7e86f/Fonts/Satoshi-Bold.woff2") format("woff");
   font-weight: 700;
   font-display: swap;
   font-style: normal; }
 
 @font-face {
   font-family: 'Satoshi Regular';
-  src: url("https://mattdowney.github.io/primer/fonts/Satoshi-Regular.woff2") format("woff2"), url("https://mattdowney.github.io/primer/fonts/Satoshi-Regular.woff") format("woff");
+  src: url("https://github.com/Kamildebbagh/portfolio/raw/e93459a817a67f032566cbe1817a2f750ca7e86f/Fonts/Satoshi-Regular.woff2") format("woff2"), url("https://github.com/Kamildebbagh/portfolio/raw/e93459a817a67f032566cbe1817a2f750ca7e86f/Fonts/Satoshi-Regular.woff2") format("woff");
   font-weight: 400;
   font-display: swap;
   font-style: normal; }
 
 html {
   /* background-color: $bg !important;
-    background-image: url('https://mattdowney.github.io/primer/img/img-loader.svg');
+    background-image: url('https://raw.githubusercontent.com/Kamildebbagh/portfolio/main/img/img-loader.svg');
     background-repeat: no-repeat;
     background-size: 3rem 3rem;
     background-position: center center;
