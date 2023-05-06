@@ -831,7 +831,7 @@ h1.notion-heading {
 
 h2.notion-heading {
   letter-spacing: 0.025rem !important;
-  text-transform: uppercase !important;
+  /* text-transform: uppercase !important; */
   font-size: 1.25rem !important; }
 
 h3 {
